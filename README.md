@@ -14,7 +14,7 @@ I've started my programming learning path in 2023, when I decided to dive in the
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="100" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/b6a61311-954a-4821-b189-03c1b552cf9a" width="100" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/73655e6a-748e-4b0b-a9e6-a92fd808e3ba" width="100" />
-<img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="100" />
+<img src="https://github.com/psergioprt/psergioprt/assets/143582790/6fd3116e-a5da-4213-aa84-e4f0684c4cd1" width="100" />
 
 <!--
 **psergioprt/psergioprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
