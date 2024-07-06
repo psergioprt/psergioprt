@@ -12,7 +12,7 @@ I've started my programming learning path in 2023, when I decided to dive in the
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="125" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/ee9657d2-2a47-48e1-9e21-eacb9db40052" width="125" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="125" />
-<img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="125" />
+<img src="https://github.com/psergioprt/psergioprt/assets/143582790/b6a61311-954a-4821-b189-03c1b552cf9a" width="125" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="125" />
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="125" />
 
