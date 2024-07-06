@@ -1,6 +1,10 @@
 <h4><b>Paulo Sérgio's GitHub page</b></h4>
-## Hi there 👋
-:
+<p>Hi there 👋,</p>
+<p>I've started my programming learning path in 2023, when i decided to dive in the 42 Porto Programming School. I took my change doing the on-line test, followed by one month piscine where i had to learn with my peers, evaluate and be evaluated by the. I had the luck to be one of the pisciners who managed to join the 42 Student Community.</p>
+
+
+
+
 <!--
 **psergioprt/psergioprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
