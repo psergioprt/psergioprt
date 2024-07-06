@@ -1,6 +1,8 @@
 ## <b>Paulo Sérgio's GitHub page</b>
 ##### Hi there 👋,
 I've started my programming learning path at 42 Porto School, when I decided to take my change by doing the online test, which was followed by a one-month piscine where i had projects to make. I had to learn with my peers, to evaluate them, and be evaluated by them. I was luck to be one of the pisciners who managed to join the 42 Student Community.
+<hr size="2">
+
 ##### So far I have done the following projects, which you can check out on my github.
 #### 👉 Libft 👈
 #### 👉 ft_printf 👈
@@ -8,8 +10,11 @@ I've started my programming learning path at 42 Porto School, when I decided to 
 #### 👉 borntoberoot 👈
 #### 👉 push_swap 👈
 #### 👉 minitalk 👈
-
 #### Currently i am 👷‍♂️ on so_long project
+
+<br>
+
+<hr size="50%">
 <br>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="100" hspace="10"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/ee9657d2-2a47-48e1-9e21-eacb9db40052" width="100" hspace="10"/>
