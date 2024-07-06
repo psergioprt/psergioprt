@@ -8,6 +8,9 @@ I've started my programming learning path in 2023, when I decided to dive in the
 #### 👉 borntoberoot
 #### 👉 push_swap </p>
 #### 👉 minitalk </p>
+
+<img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="200" />
+
 <!--
 **psergioprt/psergioprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
