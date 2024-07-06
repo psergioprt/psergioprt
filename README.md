@@ -1,4 +1,4 @@
-<h4><b>Paulo Sérgio's GitHub page</b></h4>
+####<b>Paulo Sérgio's GitHub page</b>
 <p>Hi there 👋,</p>
 <p>I've started my programming learning path in 2023, when i decided to dive in the 42 Porto Programming School. I took my change doing the on-line test, followed by one month piscine where i had to learn with my peers, evaluate and be evaluated by the. I had the luck to be one of the pisciners who managed to join the 42 Student Community.</p>
 </p>Since October 2023, i have done the following projects, which you can check here in github</p>
