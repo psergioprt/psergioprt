@@ -1,7 +1,7 @@
 ## <b>Paulo Sérgio's GitHub page</b>
 ##### Hi there 👋,
-##### I've started my programming learning path in 2023, when i decided to dive in the 42 Porto Programming School. I took my change doing the on-line test, followed by one month piscine where i had to learn with my peers, evaluate and be evaluated by them. I had the luck to be one of the pisciners who managed to join the 42 Student Community.
-##### Since October 2023, i have done the following projects, which you can check here in github.
+I've started my programming learning path in 2023, when I decided to dive in the 42 Porto Programming School. I took my change by doing the online test, followed by a one-month piscine where I had to learn with my peers, to evaluate them, and be evaluated by them. I was luck to be one of the pisciners who managed to join the 42 Student Community.
+##### Since October 2023, I have done the following projects, which you can check out on my github.
 #### 👉 Libft
 #### 👉 ft_printf
 #### 👉 get_next_line
