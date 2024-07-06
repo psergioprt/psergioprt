@@ -1,5 +1,6 @@
+<h4><b>Paulo Sérgio's GitHub page</b></h4>
 ## Hi there 👋
-<h4>Paulo Sérgio's GitHub page</h4>
+:
 <!--
 **psergioprt/psergioprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
