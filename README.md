@@ -9,7 +9,8 @@ I've started my programming learning path in 2023, when I decided to dive in the
 #### 👉 push_swap </p>
 #### 👉 minitalk </p>
 
-<img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="150" />
+<img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="125" />
+<img src="https://github.com/psergioprt/psergioprt/assets/143582790/ee9657d2-2a47-48e1-9e21-eacb9db40052)" width="125" />
 
 <!--
 **psergioprt/psergioprt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
