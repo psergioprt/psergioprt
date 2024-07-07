@@ -3,9 +3,9 @@
 ##### Just a few lines to introduce myself. Back in the late '80s, I was lucky to have a Timex 2048 and a few years later a Sinclair ZX Spectrum +. That was when I was introduced to the world of personal computers. Besides games, I had the change to get to know a programming language called Basic. That was my first experience with programming.<br>
 ##### My professional life took another course, I have mostly been a clerk, and also worked as a IT support in two companies. In the last company i worked for, i had the chance to do some SQL programming. I enjoyed that part of programming!<br>
 ##### In 2016, I decided to upgrade myself in computer technologies. I got certified as a computer technician, which also included the principles of computer languages such as C, C++, Java, SQL, Javascript, CSS and also the markup language HTML.
-##### In 2023, I decided to take a new step and applied to 42 School at Porto.
+##### In 2023, I decided to take a new step and applied to 42 School at Porto to deepen my programming skills.
 ## <b>42 Common Core</b>
-##### I've started my programming learning path at 42 Porto School, when I decided to take my change by doing the online test, which was followed by a one-month piscine where i had projects to complete. I had to learn with my peers, to evaluate them, and be evaluated by them. I was lucky to be one of the pisciners who managed to join the 42 Student Community.
+##### I started my programming learning path at 42 Porto School, when I decided to take my chance by doing the online test, which was followed by a one-month piscine where i had projects to complete. I had to learn with my peers, to evaluate them, and be evaluated by them. I was lucky to be one of the pisciners who managed to join the 42 Student Community.
 
 ##### So far I have completed the following projects, which you can check out on my github.
 ##### 👉 Libft 👉 ft_printf 👉 get_next_line 👉 borntoberoot 👉 push_swap 👉 minitalk
