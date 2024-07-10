@@ -8,7 +8,7 @@
 ##### I started my programming learning path at 42 Porto School, when I decided to take my chance by doing the online test, which was followed by a one-month piscine where i had projects to complete. I had to learn with my peers, to evaluate them, and be evaluated by them. I was lucky to be one of the pisciners who managed to join the 42 Student Community.
 
 ##### So far I have completed the following projects, which you can check out on my github.
-##### 👉 Libft 👉 ft_printf 👉 get_next_line 👉 borntoberoot 👉 push_swap 👉 minitalk
+##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ borntoberoot ✔ push_swap ✔ minitalk ✔
 ##### Currently, I am working on the so_long project.
 
 ## <b>Skills</b>
