@@ -1,6 +1,6 @@
 ## <b>About me</b>
 ##### Hi there 👋,
-##### Just a few lines to introduce myself. Back in the late '80s, I was lucky to have a Timex 2048 and a few years later a Sinclair ZX Spectrum +. That was when I was introduced to the world of personal computers. Besides games, I had the chance to get to know a programming language called Basic. That was my first experience with programming.<br>
+##### Just a few lines to introduce myself. Back in the late '80s, I was lucky to have a Sinclair 2048 Timex and ZX Spectrum +. That was when I was introduced to the world of personal computers. Besides games, I had the chance to get to know a programming language called Basic. That was my first experience with programming.<br>
 ##### My professional life took another course, I have mostly been a clerk, and also worked as a IT support in two companies. In the last company i worked for, i had the chance to do some SQL programming. I enjoyed that part of programming!<br>
 ##### In 2016, I decided to upgrade myself in computer technologies. I got certified as a computer technician, which also included the principles of computer languages such as C, C++, Java, SQL, Javascript, CSS and also the markup language HTML.
 ##### In 2023, I decided to take a new step and applied to 42 School at Porto to deepen my programming skills.
