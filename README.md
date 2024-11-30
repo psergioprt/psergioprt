@@ -9,6 +9,7 @@
 
 ##### So far I have completed the following projects, which you can check out on my github.
 ##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ borntoberoot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔
+##### 👉 Exam rank 2 ✔ Exam rank 3 ✔
 ##### Currently, I am working on the Minishell project.
 
 ## <b>Skills</b>
