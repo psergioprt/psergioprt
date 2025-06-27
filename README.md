@@ -14,13 +14,12 @@
 
 ## <b>Skills</b>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/d8f2096a-3c05-494c-bf8c-616af21cc665" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/ee9657d2-2a47-48e1-9e21-eacb9db40052" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/5291d9ba-ce4b-4922-a5e0-c0c9457c4f19" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/b6a61311-954a-4821-b189-03c1b552cf9a" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/73655e6a-748e-4b0b-a9e6-a92fd808e3ba" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/6fd3116e-a5da-4213-aa84-e4f0684c4cd1" width="80" hspace="5"/>
-<img src="https://github.com/user-attachments/assets/d8f2096a-3c05-494c-bf8c-616af21cc665" width="80" hspace="5"/>
-<img src="https://github.com/user-attachments/assets/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
 
 
 <!--
