@@ -20,7 +20,7 @@
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/73655e6a-748e-4b0b-a9e6-a92fd808e3ba" width="80" hspace="5"/>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/6fd3116e-a5da-4213-aa84-e4f0684c4cd1" width="80" hspace="5"/>
 <img src="https://github.com/user-attachments/assets/d8f2096a-3c05-494c-bf8c-616af21cc665" width="80" hspace="5"/>
-<img src="https://github.com/user-attachments/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
 
 
 <!--
