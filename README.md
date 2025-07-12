@@ -7,10 +7,12 @@
 ## <b>42 Common Core</b>
 ##### I started my programming learning path at 42 Porto School, when I decided to take my chance by doing the online test, which was followed by a one-month piscine where i had projects to complete. I had to learn with my peers, to evaluate them, and be evaluated by them. I was lucky to be one of the pisciners who managed to join the 42 Student Community.
 
-##### So far I have completed the following projects, which you can check out on my github.
-##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ borntoberoot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05
-##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 Exam rank 6
-##### Currently, I am working on the CPP projects.
+##### So far I have completed the following projects, which you can check out on my github. 
+##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ borntoberoot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05 ⏳ CPP06 ✘ CPP07 ✘ CPP08 ✘ CPP09 ✘ Inception ⏳ ft_irc ✘ ft_transcendence ✘
+##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 ⏳ Exam rank 6 ✘
+✔ -> completed
+✘ -> Not started
+⏳ -> At work 
 
 ## <b>Skills</b>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
