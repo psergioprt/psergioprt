@@ -12,7 +12,7 @@
 ##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 ⏳ Exam rank 6 ✘
 ✔ -> completed
 ✘ -> Not started
-⏳ -> At work 
+⏳ -> In progress 
 
 ## <b>Skills</b>
 <img src="https://github.com/psergioprt/psergioprt/assets/143582790/914814d2-a87f-4532-85f6-6044e75b7263" width="80" hspace="5"/>
