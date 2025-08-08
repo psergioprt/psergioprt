@@ -9,7 +9,7 @@
 
 ##### So far I have completed the following projects, which you can check out on my github. 
 ##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ born2beroot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05 ⏳ CPP06 ✘ CPP07 ✘ CPP08 ✘ CPP09 ✘ Inception ⏳ ft_irc ✘ ft_transcendence ✘
-##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 ⏳ Exam rank 6 ✘
+##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 ✔ Exam rank 6 ✘
 ✔ -> completed
 ✘ -> Not started
 ⏳ -> In progress 
