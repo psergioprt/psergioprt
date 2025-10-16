@@ -1,11 +1,11 @@
 ## <b>About me</b>
 ##### Hi there 👋,
-##### Just a few lines to introduce myself. Back in the late '80s, I was lucky to have a Sinclair 2048 Timex and ZX Spectrum +. That was when I was introduced to the world of personal computers. Besides games, I had the chance to get to know a programming language called Basic. That was my first experience with programming.<br>
-##### My professional life took another course, I have mostly been a clerk, and also worked as a IT support in two companies. In the last company i worked for, i had the chance to do some SQL programming. I enjoyed that part of programming!<br>
-##### In 2016, I decided to upgrade myself in computer technologies. I got certified as a computer technician, which also included the principles of computer languages such as C, C++, Java, SQL, Javascript, CSS and also the markup language HTML.
-##### In 2023, I decided to take a new step and applied to 42 School at Porto to deepen my programming skills.
+##### Back in the late 1980s, I was fortunate to have a Sinclair Timex 2048 and a ZX Spectrum +, which introduced me to the world of personal computers. Beyond playing games, I discovered Basic, my first programming language, and had my initial experience with programming.<br>
+##### My professional path took a different course, as I have mostly worked as a clerk, with some experience in IT support at two companies. In my most recent role, I had the opportunity to work with SQL programming, which I particularly enjoyed.<br>
+##### In 2016, I decided to upgrade my skills in computer technologies. I became a certified computer technician, gaining foundational knowledge in programming languages such as C, C++, Java, SQL, JavaScript, CSS, as well as the markup language HTML.
+##### In 2023, I decided to take a new step in my career and applied to 42 School in Porto to further develop my programming skills.
 ## <b>42 Common Core</b>
-##### I started my programming learning path at 42 Porto School, when I decided to take my chance by doing the online test, which was followed by a one-month piscine where i had projects to complete. I had to learn with my peers, to evaluate them, and be evaluated by them. I was lucky to be one of the pisciners who managed to join the 42 Student Community.
+##### I began my programming journey at 42 Porto School, starting with the online test and followed by a one-month piscine, during which I had several projects to complete. I learned collaboratively with my peers, evaluated their work, and was evaluated in turn. I was fortunate to be among the pisciners who successfully joined the 42 Student Community.
 
 ##### So far I have completed the following projects, which you can check out on my github. 
 ##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ born2beroot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05 ✔ CPP06 ✔ CPP07 ⏳ CPP08 ✘ CPP09 ✘ Inception ⏳ ft_irc ✘ ft_transcendence ✘
