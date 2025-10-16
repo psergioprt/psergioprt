@@ -2,7 +2,7 @@
 ##### Hi there 👋,
 ##### Back in the late 1980s, I was fortunate to have a Sinclair Timex 2048 and a ZX Spectrum +, which introduced me to the world of personal computers. Beyond playing games, I discovered Basic, my first programming language, and had my initial experience with programming.<br>
 ##### My professional path took a different course, as I have mostly worked as a clerk, with some experience in IT support at two companies. In my most recent role, I had the opportunity to work with SQL programming, which I particularly enjoyed.<br>
-##### In 2016, I decided to upgrade my skills in computer technologies. I became a certified computer technician, gaining foundational knowledge in programming languages such as C, C++, Java, SQL, JavaScript, CSS, as well as the markup language HTML.
+##### In 2016, I decided to upgrade my skills in computer technologies. I became a certified computer technician, gaining foundational knowledge in hardware, networks, Windows and Linux Server, as well as in programming languages such as C, C++, Java, SQL, JavaScript, CSS, and the markup language HTML.
 ##### In 2023, I decided to take a new step in my career and applied to 42 School in Porto to further develop my programming skills.
 ## <b>42 Common Core</b>
 ##### I began my programming journey at 42 Porto School, starting with the online test and followed by a one-month piscine, during which I had several projects to complete. I learned collaboratively with my peers, evaluated their work, and was evaluated in turn. I was fortunate to be among the pisciners who successfully joined the 42 Student Community.
