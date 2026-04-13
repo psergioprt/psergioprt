@@ -7,9 +7,9 @@
 ## <b>42 Common Core</b>
 ##### I began my programming journey at 42 Porto School, starting with the online test and followed by a one-month piscine, during which I had several projects to complete. I learned collaboratively with my peers, evaluated their work, and was evaluated in turn. I was fortunate to be among the pisciners who successfully joined the 42 Student Community.
 
-##### So far I have completed the following projects, which you can check out on my github. 
-##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ born2beroot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05 ✔ CPP06 ✔ CPP07 ✔ CPP08 ✔ CPP09 ✔ Inception ✔ ft_irc ✔ ft_transcendence ⏳
-##### 👉 Most recent project delivered: ft_irc on 24th January 2026 (1 project remaining).
+##### I have completed all the common core projects, which you can check out on my github. 
+##### 👉 Libft ✔ ft_printf ✔ get_next_line ✔ born2beroot ✔ push_swap ✔ minitalk ✔ so_long ✔ Philosophers ✔ Minishell ✔ NetPractice ✔ Cub3d ✔ CPP00 ✔ CPP01 ✔ CPP02 ✔ CPP03 ✔ CPP04 ✔ CPP05 ✔ CPP06 ✔ CPP07 ✔ CPP08 ✔ CPP09 ✔ Inception ✔ ft_irc ✔ ft_transcendence ✔
+##### 👉 Most recent project delivered: ft_transcencence on 11th April 2026 (0 projects remaining).
 ##### 👉 Most recent exam done: Rank 6 on 13th February 2026 (0 exams remaining).
 ##### 👉 Exam rank 2 ✔ Exam rank 3 ✔ Exam rank 4 ✔ Exam rank 5 ✔ Exam rank 6 ✔
 ✔ -> completed
