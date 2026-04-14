@@ -1,6 +1,6 @@
 ## <b>About me</b>
 ##### Hi there 👋,
-##### Back in the late 1980s, I was fortunate to have a Sinclair Timex 2048 and a ZX Spectrum +, which introduced me to the world of personal computers. Beyond playing games, I discovered Basic, my first programming language, and had my initial experience with programming.<br>
+##### Back in the late 1980s, I was fortunate to have a Sinclair Timex 2048 and a ZX Spectrum +, which introduced me to the world of personal computers. Beyond playing games, I discovered Basic, my first programming language, and had my initial experience with programming. I later continued exploring computing on early PCs such as the 286 running MS-DOS, working with tools like dBase.<br>
 ##### My professional path took a different course, as I have mostly worked as a clerk, with some experience in IT support at two companies. In my most recent role, I had the opportunity to work with SQL programming, which I particularly enjoyed.<br>
 ##### In 2016, I decided to upgrade my skills in computer technologies. I became a certified computer technician, gaining foundational knowledge in hardware, networks, Windows and Linux Server, as well as in programming languages such as C, C++, Java, SQL, JavaScript, CSS, and the markup language HTML.
 ##### In 2023, I decided to take a new step in my career and applied to 42 School in Porto to further develop my programming skills.
