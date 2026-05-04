@@ -4,7 +4,7 @@
 ##### My professional path took a different course, as I have mostly worked as a clerk, with some experience in IT support at two companies. In my most recent role, I had the opportunity to work with SQL programming, which I particularly enjoyed.<br>
 ##### In 2016, I decided to upgrade my skills in computer technologies. I became a certified computer technician, gaining foundational knowledge in hardware, networks, Windows and Linux Server, as well as in programming languages such as C, C++, Java, SQL, JavaScript, CSS, and the markup language HTML.
 ##### In 2023, I decided to take a new step in my career and applied to 42 School in Porto to further develop my programming skills.
-## <b>42 Common Core</b>
+## <b>42 Common Core - Completed on 11th April 26</b>
 ##### I began my programming journey at 42 Porto School, starting with the online test and followed by a one-month piscine, during which I had several projects to complete. I learned collaboratively with my peers, evaluated their work, and was evaluated in turn. I was fortunate to be among the pisciners who successfully joined the 42 Student Community.
 
 ##### I have completed all the common core projects, which you can check out on my github. 
